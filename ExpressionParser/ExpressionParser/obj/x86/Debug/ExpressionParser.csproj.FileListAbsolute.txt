@@ -1,0 +1,41 @@
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\obj\x86\Debug\MainWindow.baml
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\obj\x86\Debug\MainWindow.g.cs
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\obj\x86\Debug\App.g.cs
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser_MarkupCompile.cache
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.g.resources
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.Properties.Resources.resources
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\bin\Debug\ExpressionParser.exe
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\bin\Debug\ExpressionParser.pdb
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.exe
+C:\Users\YBO\Desktop\Projects\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.pdb
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.exe
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.pdb
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\bin\Debug\ExpressionParser.exe
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\bin\Debug\ExpressionParser.pdb
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\obj\x86\Debug\MainWindow.baml
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\obj\x86\Debug\App.g.cs
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser_MarkupCompile.cache
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.g.resources
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.Properties.Resources.resources
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\Desktop\ExpressionParser\ExpressionParser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.exe
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.pdb
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\bin\Debug\ExpressionParser.exe
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\bin\Debug\ExpressionParser.pdb
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\MainWindow.baml
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\MainWindow.g.cs
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\App.g.cs
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser_MarkupCompile.cache
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.g.resources
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.Properties.Resources.resources
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\YBO\Desktop\UCF Master\First Semester\Pen-Based User Interfaces\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.exe
+C:\Users\YBO\Desktop\UCF Master\First Semester\Pen-Based User Interfaces\Assginments\Assignment 4\ExpressionParser\ExpressionParser\obj\x86\Debug\ExpressionParser.pdb
